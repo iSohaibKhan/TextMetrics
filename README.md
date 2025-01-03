@@ -1,5 +1,5 @@
 # Text Metrics
-<p>A simple WordPress plugin/tool for counting words, characters and sentences of a given text (To display it on the front-end use the shortcode <b>"[text_metrics]"</b>).</p>
+<p>A simple WordPress plugin/tool for counting words, characters and sentences of a given text.</p>
 <h2>Plugin Details:</h2>
 <ul>
   <li>Plugin Name: Text Metrics</li>
