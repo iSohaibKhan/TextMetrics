@@ -7,7 +7,7 @@
   <li>Author: <a href="https://isohaibkhan.github.io" target="_blank">Sohaib S. Khan</a></li>
 </ul>
 <h2>How to use?</h2>
-<p>Download the plugin from my GitHub repository and upload it to your WordPress site.</p>
+<p>Download the plugin zip file from my GitHub repository and upload it to your WordPress site.</p>
 <h3>Instructions:</h3>
 <ul>
   <li>Got to your WP Dashboard in the sidebar head over to the plugins and click.</li>
